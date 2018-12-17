@@ -1,0 +1,13 @@
+name: Shiny_final_615
+title: Shiny_final_615
+username:
+account: pinkyuguangyan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 618439
+bundleId: 1769162
+url: https://pinkyuguangyan.shinyapps.io/Shiny_final_615/
+when: 1545077405.31223
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 615_final_project.html|615_final_project.Rmd|Analysis on Terrorism & Happiness.pdf|ne_50m_admin_0_countries.zip
